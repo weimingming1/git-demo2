@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("gitefsefs5");
         System.out.println("git6ss");
         System.out.println("push");
+                System.out.println("push");
     }
 }
